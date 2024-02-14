@@ -1,5 +1,4 @@
 # Coloring
-==========
 
 Miscellaneous tools for colormaps or otherwise dealing with color graphics.
 
