@@ -9,7 +9,7 @@ colormaps.  These are tinted gray scales, designed particularly for
 displaying multiple data sets (say density and temperature) in side
 by side filled mesh plots, or to distinguish several adjacent
 materials when plotting a single quantity (say density of fuel and
-ablator).  The seven maps, correspond to RGB and CMYK, called (in that
+ablator).  The seven maps correspond to RGB and CMYK, called (in that
 order) red, green, blue, cyan, purple, gold, and gray.
 
 The (gold, blue, gray) set have nearly identical appearance to normal
