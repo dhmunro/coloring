@@ -16,7 +16,7 @@ order) red, green, blue, cyan, purple, gold, and gray.
 The (gold, blue, gray) set have nearly identical appearance to normal
 and colorblind viewers.  The (blue, gray, red) set are close to the
 hues in the diverging coolwarm colormap designed by Kenneth Moreland,
-and are also easily distnguished by colorblind viewers.  Other
+and are also easily distinguished by colorblind viewers.  Other
 combinations are less colorblind-friendly.
 
 All the maps are arranged from dark to light.  You can append "_r" to
